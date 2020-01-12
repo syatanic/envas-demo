@@ -1,0 +1,5 @@
+<!-- Types -->
+<types>
+    <!--com.neopsis.envas.demo.helloworld-->
+    <type class="com.neopsis.envas.demo.helloworld.BHelloWorldApp" name="HelloWorldApp"/>
+</types>
